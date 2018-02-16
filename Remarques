@@ -23,12 +23,12 @@
 
 - Familles équivalentes
     - Indicateur d'extension (O/N)
-    - Pays d'extension (par APPLN_AUTH de Patstat)
-    - Triadic
-    - IP5
-    - Nb de pays d'extension   }
-    - Nb pays de publications  }==> Corrélé ? 
-    - Taille de la famille     }
+    - (NR) Pays d'extension (par APPLN_AUTH de Patstat) 
+    - Famille Triadic                              
+    - Famille IP5                                  
+    - (NR) Nb de pays d'extension   }
+    - (NR) Nb pays de publications  }==> Corrélé  
+    - Taille de la famille          }
 
     
 -	Retard de paiement
