@@ -32,7 +32,10 @@
     - (NR) Nb pays de publications  }==> Corrélé  
     - Taille de la famille          }
     - Office d'origine du 1er dépôt
-    - Date du 1er dépôt 
+    - Dates dépôt, publication, délivrance du 1er dépôt 
+    - CIB
+    - Nb de citations émises
+    - Nb de citations recues
 
 - Annuités
     - Retard de paiement
@@ -51,7 +54,6 @@
     - PIB par habitant
     - Code NACE
     - (NR) Géocodage
-    
 
 - Inventeurs
     -   Nb d'inventeur
@@ -84,15 +86,21 @@
     - CPC
     - Domaines techno
     - 4IR (à voir si pas trop complexe)
+    - Nouvelle techno (cpc=Y)
 
-
--	Inscriptions (type, nombre…)
+-	Inscriptions
+    - Date
+    - Nature
+    
 -   Nb revendications
 
--   Nb citations
-
-- pour les dépots non publiés délivrés date de retrait et
-de rejet
+- Dates 
+    - Dépôt
+    - Publication
+    - Délivrance
+    - Rejet
+    - Retrait
+    
 - réduction de taxe au moment du dépôt
 - le titulaire est-il le même que le déposant?
 - utilisation d'un mandataire interne ou d'un CPI?
