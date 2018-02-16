@@ -54,6 +54,7 @@
     - PIB par habitant
     - Code NACE
     - (NR) Géocodage
+    - Nb de brevets en vigueur pour ce déposant
 
 - Inventeurs
     -   Nb d'inventeur
@@ -73,6 +74,7 @@
     - PIB par habitant
     - Code NACE
     - (NR) Géocodage
+    - Nb de brevets en vigueur pour ce déposant
 
 - Mandataires
     -   Nb de titulaires
@@ -106,6 +108,9 @@
 - les titulaires sont-ils les mêmes que les déposants ?
 - les inventeurs font-ils partie des titulaires ?
 - utilisation d'un mandataire interne ou d'un CPI?
+
+- Moyenne des annuités par an
+- Nb d'annuités déjà payées
 
 - variables économiques sur les pays (associés à la
 nationalité des déposants / titulaires ?) (à voir avec Emmanuelle)
