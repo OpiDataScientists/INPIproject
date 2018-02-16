@@ -49,6 +49,8 @@
     - PIB
     - variation du PIB
     - PIB par habitant
+    - Code NACE
+    
 
 - Inventeurs
     -   Nb d'inventeur
@@ -63,6 +65,10 @@
     - Région pour les FR
     - Pays 
     - Continent
+    - PIB
+    - variation du PIB
+    - PIB par habitant
+    - Code NACE
 
 - Mandataires
     -   Nb de titulaires
@@ -73,7 +79,6 @@
 
 
 -	CIB
--	Var déposant, inventeur, titulaire, mandataire // Pays, région, département, ville
 -	Géocodage (lat, long)
 
 
