@@ -32,7 +32,7 @@
     - (NR) Nb pays de publications  }==> Corrélé  
     - Taille de la famille          }
     - Office d'origine du 1er dépôt
-    - Dates dépôt, publication, délivrance du 1er dépôt 
+    - Date de première priorité
     - CIB
     - Nb de citations émises
     - Nb de citations recues
@@ -102,12 +102,13 @@
     - Retrait
     
 - réduction de taxe au moment du dépôt
-- le titulaire est-il le même que le déposant?
+
+- les titulaires sont-ils les mêmes que les déposants ?
+- les inventeurs font-ils partie des titulaires ?
 - utilisation d'un mandataire interne ou d'un CPI?
-- Domaines techniques
 
 - variables économiques sur les pays (associés à la
-nationalité des déposants?)
+nationalité des déposants / titulaires ?) (à voir avec Emmanuelle)
 
 
 
