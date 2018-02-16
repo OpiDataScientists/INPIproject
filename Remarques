@@ -24,27 +24,33 @@
 - Familles équivalentes
     - Indicateur d'extension (O/N)
     - (NR) Pays d'extension (par APPLN_AUTH de Patstat) 
-    - Famille Triadic                              
-    - Famille IP5                                  
+    - Extension OEB (O/N)
+    - Famille Triadic (O/N)                             
+    - Famille IP5 (O/N)                                 
     - (NR) Nb de pays d'extension   }
     - (NR) Nb pays de publications  }==> Corrélé  
     - Taille de la famille          }
+    - Office d'origine du 1er dépôt
+    - Date du 1er dépôt 
 
+- Annuités
+    - Retard de paiement
     
--	Retard de paiement
+- Données entreprises
 -	Catégorisation PME/ETI…
+
 -	Nb de déposants
+
 -	CIB
 -	Var déposant, inventeur, titulaire, mandataire // Pays, région, département, ville
 -	Géocodage (lat, long)
--	Famille : pays d’origine du brevet
--	Priorité
--	1er dépôt
+
+
 -	Code Nace 
 -	Nb d’établissements d’une entreprise
 -	Inscriptions (type, nombre…)
 -   Nb revendications
--   Nb de pays de publication
+
 -   Nb citations
 
 - pour les dépots non publiés délivrés date de retrait et
@@ -53,7 +59,7 @@ de rejet
 - le titulaire est-il le même que le déposant?
 - utilisation d'un mandataire interne ou d'un CPI?
 - Domaines techniques
-- Extension à l'OEB?
+
 - variables économiques sur les pays (associés à la
 nationalité des déposants?)
 
