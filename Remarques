@@ -13,6 +13,7 @@
 - Madras - inscriptions - à voir si dispo
 - Derwent - Incompatibilité des identifiants brevets
 - Familles équivalentes (faite par Olivier)
+- Données économiques INSEE
 
 
 ##%######################################################%##
@@ -37,9 +38,25 @@
     - Retard de paiement
     
 - Données entreprises
--	Catégorisation PME/ETI…
+    -	Catégorisation PME/ETI…
 
--	Nb de déposants
+- Déposants
+    -	Nb de déposants
+    - Département pour les FR
+    - Région pour les FR
+    - Pays 
+    - Continent
+    - PIB
+    - variation du PIB
+    - PIB par habitant
+
+- Inventeurs
+    -   Nb de inventeur
+    - Département pour les FR
+    - Région pour les FR
+    - Pays 
+    - Continent
+
 
 -	CIB
 -	Var déposant, inventeur, titulaire, mandataire // Pays, région, département, ville
