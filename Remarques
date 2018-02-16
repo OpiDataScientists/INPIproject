@@ -50,6 +50,7 @@
     - variation du PIB
     - PIB par habitant
     - Code NACE
+    - (NR) Géocodage
     
 
 - Inventeurs
@@ -69,6 +70,7 @@
     - variation du PIB
     - PIB par habitant
     - Code NACE
+    - (NR) Géocodage
 
 - Mandataires
     -   Nb de titulaires
@@ -77,13 +79,13 @@
     - Pays 
     - Continent
 
+- CIB
+    -	CIB4
+    - CPC
+    - Domaines techno
+    - 4IR (à voir si pas trop complexe)
 
--	CIB
--	Géocodage (lat, long)
 
-
--	Code Nace 
--	Nb d’établissements d’une entreprise
 -	Inscriptions (type, nombre…)
 -   Nb revendications
 
