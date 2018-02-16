@@ -12,6 +12,7 @@
 - Extractions Soprano (bases+annuités)
 - Madras - inscriptions - à voir si dispo
 - Derwent - Incompatibilité des identifiants brevets
+- Familles équivalentes (faite par Olivier)
 
 
 ##%######################################################%##
@@ -20,7 +21,14 @@
 #                                                          #
 ##%######################################################%##
 
--	Extension
+- Familles équivalentes
+    - Indicateur d'extension (O/N)
+    - Pays d'extension (par APPLN_AUTH de Patstat)
+    - Nb de pays d'extension   }
+    - Nb pays de publications  }==> Corrélé ? 
+    - Taille de la famille     }
+    
+    
 -	Retard de paiement
 -	Catégorisation PME/ETI…
 -	Nb de déposants
